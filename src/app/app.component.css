@@ -1,0 +1,19 @@
+/* table {
+    width: 100%;
+  }
+  
+  th.mat-sort-header-sorted {
+    color: black;
+  } */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+.mat-header-cell {
+  text-align: center;
+}
+table {
+  width: 100%;
+}
+.mat-cell {
+  text-align: center;
+}
+
+  
